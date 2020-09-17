@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angulartutorial-1def3": {
+      "hosting": {
+        "my-project-tutorial": [
+          "angulartutorial-1def3"
+        ]
+      }
+    }
+  }
+}
